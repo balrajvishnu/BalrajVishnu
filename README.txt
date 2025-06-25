@@ -1,5 +1,8 @@
 # Balraj Vishnu - Personal Portfolio Website
 
+## Live Demo
+[View the website here](https://balrajvishnu.github.io/BalrajVishnu/)
+
 Welcome to the personal website of Balraj Vishnu!
 
 This site is designed to introduce Balraj Vishnu, share his values and interests, and provide a showcase of free web applications created for the community. Visitors can learn more about Balraj, explore the apps, and get in touch easily.
